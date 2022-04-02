@@ -1,5 +1,5 @@
 # pushup_tracker
-# Life-Expectancy-Prediction
+
 <p align="center"> 
    <img width="1000" height="400" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/87663976/161401522-9abfc07f-27d0-4755-ab44-eccce86465af.png">
 </p>
