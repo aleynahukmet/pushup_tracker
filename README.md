@@ -3,7 +3,7 @@
 <p align="center"> 
    <img width="1000" height="400" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/87663976/161401522-9abfc07f-27d0-4755-ab44-eccce86465af.png">
 </p>
-In this project I will be doing pushup tracker using MediaPipe and OpenCV. 
+In this project I will be doing pushup tracker using MediaPipe and OpenCV. I calculated the angle and wrote code to count the number of pushups. And I showed them on the screen to give the person a convenient feedback. 
 
 # MediaPipe
 Google open-source MediaPipe was first introduced in June, 2019. It aims to make our life easy by providing some integrated computer vision and machine learning features. Media Pipe is a framework for building multimodal(e.g video,audio or any time series data) applied ML pipelines.MediaPipe offers customizable Python solutions as a prebuilt Python package on PyPI, which can be installed simply with *pip install mediapipe*.  
