@@ -18,7 +18,10 @@ MediaPipe Pose is a high-fidelity body pose tracking solution that renders 33 3D
 
 # Requirements
 After we installed mediapipe and opencv we are importing our required libraries.
+
 *import cv2*
+
 *import mediapipe*
+
 *import numpy*
 
